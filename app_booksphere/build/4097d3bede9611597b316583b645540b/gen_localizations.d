@@ -1,0 +1,1 @@
+ C:\\DEV\ III\\bloc_demo\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_pt.dart C:\\DEV\ III\\bloc_demo\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations.dart:  C:\\DEV\ III\\bloc_demo\\l10n.yaml C:\\DEV\ III\\bloc_demo\\lib/l10n\\intl_pt.arb

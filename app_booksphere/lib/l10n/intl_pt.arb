@@ -1,0 +1,46 @@
+{
+  "@@locale": "pt",
+
+  "tituloApp": "Booksphere",
+  "@tituloApp": {
+    "description": "Título da aplicação"
+  },
+  "appBarLabel": "Booksphere",
+  "@appBarLabel": {
+    "description": "Label na Appbar"
+  },
+  "dialogoConfirmacaoBotaoCancelar": "Cancelar",
+  "@dialogoConfirmacaoBotaoCancelar": {
+    "description": "Label do botão cancelar do dialog de confirmar"
+  },
+  "dialogoConfirmacaoBotaoConfirmar": "Confirmar",
+  "@dialogoConfirmacaoBotaoConfirmar": {
+    "description": "Label do botão confirmar do dialog de confirmar"
+  },
+  
+  "dialogoBotaoTentarNovamente": "Tentar novamente",
+  "@dialogoBotaoTentarNovamente": {
+    "description": "Label do dialog de erro tentar novamente"
+  },
+  "dialogoBotaoOk": "OK",
+  "@dialogoBotaoOk": {
+    "description": "Label do dialog OK"
+  },
+  "mensagemErroUsuarioVazio": "Digite um e-mail",
+  "@mensagemErroUsuarioVazio": {
+    "description": "Mensagem para usuário vazio"
+  },
+  "mensagemErroSenhaVazia": "Digite uma senha",
+  "@mensagemErroSenhaVazia": {
+    "description": "Mensagem para senha vazia"
+  },
+  "mensagemNaoAutorizado":"Não autorizado",
+  "@mensagemNaoAutorizado":{
+    "description": "Mensagem para não autorizado"
+  },
+  "mensagemErroGeral": "Ocorreu um erro",
+  "@mensagemErroGeral": {
+    "description": "Mensagem para erro geral"
+  }
+
+}
